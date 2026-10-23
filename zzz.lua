@@ -18,7 +18,7 @@ local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
     Name = "MVSD | 살인자 대 보안관",
     LoadingTitle = "로딩중...",
-    LoadingSubtitle = "sound man",
+    LoadingSubtitle = "하늘은 나의편",
     ConfigurationSaving = { Enabled = false },
     KeySystem = false,
 })
